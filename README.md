@@ -4,6 +4,8 @@
 
 This project is a simple memory matching game built with React. It demonstrates a basic understanding of React concepts such as state management using hooks like useState and useEffect. Additionally, it implements the Fisher-Yates shuffle algorithm for shuffling the cards.
 
+I also studies the [Fisher-Yates shuffle algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle) during the development of this project.
+
 This project is demonstrated by [netNinjs](https://netninja.dev/), but I have tried to implement everything beforehand to get first-hand experience and I have additionally gone a step further by adding an automatic new game after 4 seconds and also added a conclusion window that displays the total number of steps at the end of each game with some decent styling.
 
 ## Installation
