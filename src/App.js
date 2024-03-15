@@ -20,7 +20,6 @@ function shuffle(theArr) {
     theArr[i] = theArr[j];
     theArr[j] = temp;
   }
-
   return theArr;
 }
 

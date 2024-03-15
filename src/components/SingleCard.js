@@ -23,13 +23,3 @@ export default function SingleCard({ card, handleChoice, flipped, disabled }) {
     </>
   );
 }
-
-/* {flipped && <img className="front" src={card.src} alt="card front" />}
-        {!flipped && (
-          <img
-            className="back"
-            src="/img/cover.png"
-            onClick={handleClick}
-            alt="card back"
-          />
-        )} */
